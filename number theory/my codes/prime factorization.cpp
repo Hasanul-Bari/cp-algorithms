@@ -27,7 +27,7 @@ void seiveoferatosthenis(long long n)
     {
         if(prime[i]==true)
         {
-            for(int j=i*2; j<=n; j=j+i)
+            for(int j=i*i; j<=n; j=j+i)
                 prime[j]=false;
         }
     }
