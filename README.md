@@ -1,2 +1,2 @@
 # cp-algorithms
-My competitive programming algorithm's code
+My competitive programming algorithm's code.
