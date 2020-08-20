@@ -20,6 +20,8 @@ int main()
 
 
 
+
+vector<ll> primes;
 void seive(ll n)
 {
     vector<bool> flag(n,true);
