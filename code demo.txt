@@ -29,6 +29,8 @@
 #define pf printf
 #define sf scanf
 
+#define pi acos(-1.0)
+
 using namespace std;
 
 
